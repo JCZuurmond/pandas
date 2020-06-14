@@ -6,6 +6,8 @@ Our main contributing guide can be found [in this repo](https://github.com/panda
 
 ## Getting Started
 
+Join the PyData festival lunch sessions!
+
 If you are looking to contribute to the *pandas* codebase, the best place to start is the [GitHub "issues" tab](https://github.com/pandas-dev/pandas/issues). This is also a great place for filing bug reports and making suggestions for ways in which we can improve the code and documentation.
 
 If you have additional questions, feel free to ask them on the [mailing list](https://groups.google.com/forum/?fromgroups#!forum/pydata) or on [Gitter](https://gitter.im/pydata/pandas). Further information can also be found in the "[Where to start?](https://github.com/pandas-dev/pandas/blob/master/doc/source/development/contributing.rst#where-to-start)" section.
